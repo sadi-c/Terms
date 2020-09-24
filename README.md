@@ -4,9 +4,13 @@ A software development life cycle (SDLC) model is a conceptual framework describ
 
 
 •	SDLC encompasses: planning, implementation, testing, documentation, deployment and maintenance.
+
 •	Models shifted from traditional staged SDLC processes, to agile, and then to Devops.
-•	Agile and Devops as practices merged traditional staging in new and interesting ways.
+
+•	Agile and Devops as practices merged traditional staging in new and interesting ways
+
 •	The cloud brought the arrival of web-delivered resources into the picture.
+
 •	Although SDLC is now much changed, the concept remains largely the same.
 
 Phase 1: Planning
@@ -106,5 +110,5 @@ Reliability is the most important feature of any application, because if the app
 •	The operational procedures used to run the application must impose minimal manual work and cognitive load on operators, while ensuring rapid mitigation of failures.
 
 Reliability is defined by the user. For user-facing workloads, measure the user experience, for example, query success ratio, as opposed to just server metrics such as CPU usage.
- 
+
 Use sufficient reliability. Your systems should be reliable enough that users are happy, but not excessively reliable such that the investment is unjustified
