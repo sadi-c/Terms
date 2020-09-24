@@ -80,7 +80,7 @@ Teams use build definitions to ensure that every commit to the master branch tri
 
 
 
-##  Continuous Delivery
+## Continuous Delivery
 
 Continuous Delivery is basically ensuring your codebase is ready to deploy safely at any point in time. Deployments include all changes associated with new features, bug fixes and features in the early stages of development which can be enabled using feature flags for target users to test in their production environments.
 
@@ -88,7 +88,6 @@ Continuous delivery is the next step in the process where the tested code from c
 
 
 ## Configuration Management
-
 Configuration management (CM) focuses on establishing and maintaining consistency of a product's performance, and its functional and physical attributes with its requirements, design, and operational information throughout its life.
 
 A configuration management tool can improve the organization's change-impact analysis, reducing the outages caused by production changes. Without configuration management in place, it is nearly impossible to understand the impact of any changes to an environment.
@@ -108,10 +107,10 @@ Scalability is the capability of a process, network, software or appliance to gr
 Reliability is the most important feature of any application, because if the application is not reliable, users will eventually leave, and the other features won't matter.
 
 •	An application must have measurable reliability goals, and deviations must be promptly corrected.
+
 •	The application must be architected for scalability, high availability, and automated change management.
+
 •	The application must be self-healing where possible, and it must be instrumented for observability.
+
 •	The operational procedures used to run the application must impose minimal manual work and cognitive load on operators, while ensuring rapid mitigation of failures.
 
-Reliability is defined by the user. For user-facing workloads, measure the user experience, for example, query success ratio, as opposed to just server metrics such as CPU usage.
-
-Use sufficient reliability. Your systems should be reliable enough that users are happy, but not excessively reliable such that the investment is unjustified
