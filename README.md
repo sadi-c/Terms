@@ -1,4 +1,4 @@
-##Software Delivery Cycle
+## Software Delivery Cycle
 
 A software development life cycle (SDLC) model is a conceptual framework describing all activities in a software development project from planning to maintenance.
 
@@ -80,12 +80,15 @@ Teams use build definitions to ensure that every commit to the master branch tri
 
 
 
-  ## Continuous Delivery
+##  Continuous Delivery
+
 Continuous Delivery is basically ensuring your codebase is ready to deploy safely at any point in time. Deployments include all changes associated with new features, bug fixes and features in the early stages of development which can be enabled using feature flags for target users to test in their production environments.
+
 Continuous delivery is the next step in the process where the tested code from continuous integration is automatically deployed in various environments by a manual trigger.
 
 
 ## Configuration Management
+
 Configuration management (CM) focuses on establishing and maintaining consistency of a product's performance, and its functional and physical attributes with its requirements, design, and operational information throughout its life.
 
 A configuration management tool can improve the organization's change-impact analysis, reducing the outages caused by production changes. Without configuration management in place, it is nearly impossible to understand the impact of any changes to an environment.
